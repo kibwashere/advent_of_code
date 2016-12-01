@@ -9,7 +9,10 @@ function move(txt){
     }else{
         direction--;
     }
-    direction = Math.abs(direction%4);
+    if(direction < 0){
+        direction += 4;
+    }
+    direction %= 4;
     txt = txt.substring(1) * 1;
     if(direction >= 2){
         txt *= -1;
