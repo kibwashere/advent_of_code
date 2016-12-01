@@ -4,4 +4,4 @@ To view live results go to https://cdn.rawgit.com/Voldemortas/advent_of_code/mas
 
 Solved days: 
 
-https://cdn.rawgit.com/Voldemortas/advent_of_code/master/day1.html
+Day 1: https://cdn.rawgit.com/Voldemortas/advent_of_code/master/day1.html
